@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Bluetooth Toaster",
+    "description": "A toaster that connects to your phone to send you notifications when your toast is ready.",
+    "price": 4999
+  },
+  {
+    "name": "WiFi-Enabled Umbrella",
+    "description": "An umbrella that tracks weather updates and glows when rain is detected nearby.",
+    "price": 3599
+  },
+  {
+    "name": "Smart Fork",
+    "description": "A fork that vibrates if you eat too quickly, syncing data to your health app.",
+    "price": 2499
+  },
+  {
+    "name": "USB-Powered Mug Warmer",
+    "description": "A mug warmer that keeps your drink hot, powered by your computer's USB port.",
+    "price": 1799
+  },
+  {
+    "name": "App-Controlled Candle",
+    "description": "A candle you can turn on and off with your smartphone.",
+    "price": 2099
+  },
+  {
+    "name": "Selfie-Snapping Mirror",
+    "description": "A bathroom mirror that automatically takes selfies and uploads them to social media.",
+    "price": 7999
+  },
+  {
+    "name": "Internet-Connected Plant Pot",
+    "description": "A plant pot that tweets when your plant needs water.",
+    "price": 3299
+  },
+  {
+    "name": "Voice-Activated Trash Can",
+    "description": "A trash can that opens when you tell it to.",
+    "price": 4599
+  },
+  {
+    "name": "Smart Fridge Magnet",
+    "description": "A fridge magnet that displays your calendar and weather updates.",
+    "price": 2699
+  },
+  {
+    "name": "LED Shoelaces",
+    "description": "Shoelaces that light up and can be controlled via an app.",
+    "price": 1599
+  }
+]
