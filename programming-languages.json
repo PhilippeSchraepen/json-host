@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Python",
+    "year_created": 1991,
+    "creator": "Guido van Rossum",
+    "paradigms": ["Object-Oriented", "Procedural", "Functional"],
+    "typed": "Dynamically typed"
+  },
+  {
+    "name": "JavaScript",
+    "year_created": 1995,
+    "creator": "Brendan Eich",
+    "paradigms": ["Event-Driven", "Functional", "Imperative"],
+    "typed": "Dynamically typed"
+  },
+  {
+    "name": "Java",
+    "year_created": 1995,
+    "creator": "James Gosling",
+    "paradigms": ["Object-Oriented", "Class-Based"],
+    "typed": "Statically typed"
+  },
+  {
+    "name": "C",
+    "year_created": 1972,
+    "creator": "Dennis Ritchie",
+    "paradigms": ["Procedural", "Structured"],
+    "typed": "Statically typed"
+  },
+  {
+    "name": "C++",
+    "year_created": 1985,
+    "creator": "Bjarne Stroustrup",
+    "paradigms": ["Object-Oriented", "Procedural", "Generic"],
+    "typed": "Statically typed"
+  },
+  {
+    "name": "C#",
+    "year_created": 2000,
+    "creator": "Microsoft",
+    "paradigms": ["Object-Oriented", "Component-Oriented"],
+    "typed": "Statically typed"
+  },
+  {
+    "name": "Go",
+    "year_created": 2009,
+    "creator": "Robert Griesemer, Rob Pike, Ken Thompson",
+    "paradigms": ["Concurrent", "Procedural"],
+    "typed": "Statically typed"
+  },
+  {
+    "name": "Rust",
+    "year_created": 2010,
+    "creator": "Graydon Hoare",
+    "paradigms": ["Functional", "Imperative", "Concurrent"],
+    "typed": "Statically typed"
+  },
+  {
+    "name": "PHP",
+    "year_created": 1995,
+    "creator": "Rasmus Lerdorf",
+    "paradigms": ["Imperative", "Object-Oriented", "Functional"],
+    "typed": "Dynamically typed"
+  },
+  {
+    "name": "TypeScript",
+    "year_created": 2012,
+    "creator": "Microsoft",
+    "paradigms": ["Object-Oriented", "Functional"],
+    "typed": "Statically typed"
+  }
+]
