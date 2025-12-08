@@ -1,0 +1,142 @@
+[
+  {
+    "isbn": "978-0553573428",
+    "title": "Mistborn",
+    "author": "Brandon Sanderson",
+    "genre": "fantasy",
+    "rating": 4.6
+  },
+  {
+    "isbn": "978-0261103573",
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "genre": "fantasy",
+    "rating": 4.8
+  },
+  {
+    "isbn": "978-0062316097",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "philosophical",
+    "rating": 3.9
+  },
+  {
+    "isbn": "978-0679783275",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "dystopian",
+    "rating": 4.7
+  },
+  {
+    "isbn": "978-0307474278",
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "thriller",
+    "rating": 4.1
+  },
+  {
+    "isbn": "978-0812981605",
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "genre": "science-fiction",
+    "rating": 4.3
+  },
+  {
+    "isbn": "978-0451524935",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genre": "political satire",
+    "rating": 3.9
+  },
+  {
+    "isbn": "978-0385486804",
+    "title": "Fight Club",
+    "author": "Chuck Palahniuk",
+    "genre": "dark fiction",
+    "rating": 4.0
+  },
+  {
+    "isbn": "978-0143110439",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "post-apocalyptic",
+    "rating": 4.1
+  },
+  {
+    "isbn": "978-0061122415",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "classic",
+    "rating": 4.8
+  },
+  {
+    "isbn": "978-0140449266",
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "genre": "philosophical",
+    "rating": 4.6
+  },
+  {
+    "isbn": "978-0307887443",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "science-fiction",
+    "rating": 4.7
+  },
+  {
+    "isbn": "978-0446310789",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "classic",
+    "rating": 3.8
+  },
+  {
+    "isbn": "978-1501128035",
+    "title": "It",
+    "author": "Stephen King",
+    "genre": "horror",
+    "rating": 4.2
+  },
+  {
+    "isbn": "978-0307743657",
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "thriller",
+    "rating": 4.0
+  },
+  {
+    "isbn": "978-0307277671",
+    "title": "No Country for Old Men",
+    "author": "Cormac McCarthy",
+    "genre": "crime",
+    "rating": 4.1
+  },
+  {
+    "isbn": "978-0141439518",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "romance",
+    "rating": 4.6
+  },
+  {
+    "isbn": "978-0140449181",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "classic",
+    "rating": 4.2
+  },
+  {
+    "isbn": "978-0060850524",
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "genre": "philosophical",
+    "rating": 4.4
+  },
+  {
+    "isbn": "978-0553386790",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "psychology",
+    "rating": 4.1
+  }
+]
