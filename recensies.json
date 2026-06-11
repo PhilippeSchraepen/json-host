@@ -1,0 +1,18 @@
+[
+  { "product_id": 1, "rating": 4, "reviewer": "Stijn" },
+  { "product_id": 1, "rating": 5, "reviewer": "Mathias" },
+  { "product_id": 1, "rating": 4, "reviewer": "Nesma" },
+  { "product_id": 2, "rating": 5, "reviewer": "Yaro" },
+  { "product_id": 2, "rating": 5, "reviewer": "Suneha" },
+  { "product_id": 3, "rating": 3, "reviewer": "Jamil" },
+  { "product_id": 3, "rating": 4, "reviewer": "Thomas" },
+  { "product_id": 4, "rating": 3, "reviewer": "Dariush" },
+  { "product_id": 4, "rating": 2, "reviewer": "Kerem" },
+  { "product_id": 4, "rating": 4, "reviewer": "Soufiane" },
+  { "product_id": 6, "rating": 5, "reviewer": "Selin" },
+  { "product_id": 6, "rating": 4, "reviewer": "Weng" },
+  { "product_id": 7, "rating": 4, "reviewer": "Asjem" },
+  { "product_id": 8, "rating": 4, "reviewer": "Garik" },
+  { "product_id": 8, "rating": 5, "reviewer": "Vannessa" },
+  { "product_id": 9, "rating": 3, "reviewer": "Kevin" }
+]
